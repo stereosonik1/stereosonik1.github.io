@@ -140,7 +140,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
+    background: linear-gradient(rgba(0, 0, 0, 0.48), rgba(0, 0, 0, 0.32)),
                 url('carstereoparts/carpic3.png');
     background-size: 56%;
     background-position: center 100px;
@@ -523,6 +523,10 @@ body {
     
     .language-toggle {
         display: none;
+    }
+
+    .hero {
+        background-size: 78.4%;
     }
 
     .hero h1 {
