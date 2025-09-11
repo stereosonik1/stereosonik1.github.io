@@ -527,6 +527,7 @@ body {
 
     .hero {
         background-size: 78.4%;
+        background-position: center 160px;
     }
 
     .hero h1 {
